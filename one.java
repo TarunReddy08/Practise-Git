@@ -3,6 +3,6 @@ public class Git
 {
 	public static void main(String args[])
 	{
-		System.out.println("THis is Java Program");
+		System.out.println("This is Java Program");
 	}
 }	
